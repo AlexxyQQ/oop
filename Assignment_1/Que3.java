@@ -1,5 +1,5 @@
 //Write a Java program for sorting a given list of names in ascending order?
-package questions;
+package Assignment_1;
 
 import java.util.*;
 

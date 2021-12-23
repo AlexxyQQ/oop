@@ -3,7 +3,7 @@
   kilometers per hour and miles per hour (hint: 1 mile = 1609 meters).ExampleInput distance in meters:
    2500Input hour: 5Input minutes: 56Input seconds: 23Expected Output:Your speed in meters/second is
  0.11691531Your speed in km/h is 0.42089513Your speed in miles/h is 0.26158804 */
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 

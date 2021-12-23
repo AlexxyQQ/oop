@@ -1,7 +1,7 @@
 /* Write a Java program that accepts three numbers from the user and prints "increasing" 
 if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, 
 and "Neither increasing or decreasing order" otherwise. */
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 

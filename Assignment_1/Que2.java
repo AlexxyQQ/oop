@@ -1,5 +1,5 @@
 //Write a Java program that checks whether a given string is a palindrome or not. Ex: MADAM is a palindrome.
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 

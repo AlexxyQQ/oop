@@ -1,4 +1,4 @@
-package questions;
+package Assignment_1;
 
 public class Que5a {
     public static void main(String[] args) {

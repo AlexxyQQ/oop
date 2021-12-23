@@ -1,5 +1,5 @@
 /*Write a java program to check weather a given number is Armstrong number or not.*/
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 

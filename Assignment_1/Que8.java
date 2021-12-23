@@ -1,6 +1,6 @@
 /*Write a Java program to compute body massindex (BMI).Note: 
 The formula is BMI = kg/m2 where kg is a person's weight in kilograms and m2is their height in metres squared. */
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 

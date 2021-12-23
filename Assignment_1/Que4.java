@@ -1,5 +1,5 @@
 //Write a Java program that reads a line of integers and then displays each integer and the sum of all integers.
-package questions;
+package Assignment_1;
 
 import java.util.Scanner;
 
