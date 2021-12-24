@@ -1,4 +1,4 @@
-package classProgram;
+package chapter_6_OOP.classProgram;
 
 import java.util.Scanner;
 
