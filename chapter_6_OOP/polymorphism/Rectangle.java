@@ -1,5 +1,5 @@
 package chapter_6_OOP.polymorphism;
 
-public class Rectangle {
+public class Rectangle extends Shape {
 
 }
